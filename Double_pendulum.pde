@@ -1,6 +1,6 @@
-//Essa é uma versão simplificada, onde são inseridos, no código, os dados de massa, comprimento e ângulos iniciais.
-//A ideia é implementar o código de forma a criar uma interface onde o usúario possa manipular a massa e comprimento das cordas.
-//Além disso, as bolas se tornarão responsivas ao mouse, de forma que o ângulo seja formado ao arrastar as mesmas.
+//Essa é uma versão simplificada, onde são inseridos, no código, os dados de massa, comprimento e ângulos iniciais, além de não
+//serem apresentados os gráficos a respeito dos ângulos.
+//A ideia é implementar o código de forma a criar uma interface responsiva, muito semelhante à do site utilizado como referência.
 
 //Comprimentos das cordas
 float r1 = 200;
